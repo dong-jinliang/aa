@@ -12,7 +12,7 @@ CCScene* HelloWorld::scene()
     // 'layer' is an autorelease object
     HelloWorld *layer = HelloWorld::create();
 
-    // add layer as a child to scene
+     //add layer as a child to scene gfrhgj
     scene->addChild(layer);
 
     // return the scene
