@@ -74,6 +74,8 @@ bool HelloWorld::init()
     CCLog("Hello,github!");
     
     //asdgajsdgfwy8iuasghjk
+    
+    pCloseItem->runAction(CCJumpBy::create(5, ccp(-size.width, 0), 50, 5));
     return true;
 }
 
