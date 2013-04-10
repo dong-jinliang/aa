@@ -72,6 +72,8 @@ bool HelloWorld::init()
     this->addChild(pSprite, 0);
     
     CCLog("Hello,github!");
+    
+    //asdgajsdgfwy8iuasghjk
     return true;
 }
 
