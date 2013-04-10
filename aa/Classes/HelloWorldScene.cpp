@@ -71,6 +71,7 @@ bool HelloWorld::init()
     // add the sprite as a child to this layer
     this->addChild(pSprite, 0);
     
+    CCLog("Hello,github!");
     return true;
 }
 

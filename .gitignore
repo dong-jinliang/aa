@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore files build by xcode
 *.mode*v*
 *.pbxuser
@@ -11,4 +12,7 @@ build/
 ._.*
 xcuserdata/
 DerivedData/
+=======
+/.DS_Store
+>>>>>>> refs/heads/aa1
 /aa.xcodeproj/project.xcworkspace/xcuserdata/meyougamesp5.xcuserdatad/UserInterfaceState.xcuserstate
